@@ -1,10 +1,10 @@
-# Concept Book For Magento2
+# Solutions Book For Magento2
 
-https://lalittmohan.github.io/magento2-concept-book/
+https://lalittmohan.github.io/magento2-solutions/
 
 #### locally Setup
 
-- Clone or Download the [GitHub repository](https://github.com/lalittmohan/magento2-concept-book).
+- Clone or Download the [GitHub repository](https://github.com/lalittmohan/magento2-solutions).
 - Install `npm i docsify-cli -g`
 - Run `docsify serve docs`
 - Open http://localhost:3000/
