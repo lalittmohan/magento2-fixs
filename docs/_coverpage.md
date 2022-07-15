@@ -1,216 +1,301 @@
-<div class="honeycomb">
-  <div class="ibws-fix">
-    <div class="hexagon">
-      <div class="hexagontent">IF you can keep your head when all about you</div>
-    </div>
-    <div class="hexagon">
-      <div class="hexagontent">Are losing theirs and blaming it on you,</div>
-    </div>
-    <div class="hexagon">
-      <div class="hexagontent">If you can trust yourself when all men doubt you,</div>
-    </div>
-    <div class="hexagon">
-      <div class="hexagontent">But make allowance for their doubting too;</div>
-    </div>
-    <div class="hexagon">
-      <div class="hexagontent">If you can wait and not be tired by waiting,</div>
-    </div>
-    <div class="hexagon">
-      <div class="hexagontent">Or being lied about, don't deal in lies,</div>
-    </div>
-    <div class="hexagon">
-      <div class="hexagontent">Or being hated, don't give way to hating,</div>
-    </div>
-    <div class="hexagon">
-      <div class="hexagontent">And yet don't look too good, nor talk too wise:</div>
-    </div>
-  </div>
-  <div class="ibws-fix">
-    <div class="hexagon">
-      <div class="hexagontent">If you can dream - and not make dreams your master;</div>
-    </div>
-    <div class="hexagon">
-      <div class="hexagontent">If you can think - and not make thoughts your aim;</div>
-    </div>
-    <div class="hexagon">
-      <div class="hexagontent">If you can meet with Triumph and Disaster</div>
-    </div>
-    <div class="hexagon">
-      <div class="hexagontent">And treat those two impostors just the same;</div>
-    </div>
-    <div class="hexagon">
-      <div class="hexagontent">If you can bear to hear the truth you've spoken</div>
-    </div>
-    <div class="hexagon">
-      <div class="hexagontent">Twisted by knaves to make a trap for fools,</div>
-    </div>
-    <div class="hexagon">
-      <div class="hexagontent">Or watch the things you gave your life to, broken,</div>
-    </div>
-    <div class="hexagon">
-      <div class="hexagontent">And stoop and build 'em up with worn-out tools:</div>
-    </div>
-  </div>
-  <div class="ibws-fix">
-    <div class="hexagon">
-      <div class="hexagontent">If you can make one heap of all your winnings</div>
-    </div>
-    <div class="hexagon">
-      <div class="hexagontent">And risk it on one turn of pitch-and-toss,</div>
-    </div>
-    <div class="hexagon">
-      <div class="hexagontent">And lose, and start again at your beginnings</div>
-    </div>
-    <div class="hexagon">
-      <div class="hexagontent">And never breathe a word about your loss;</div>
-    </div>
-    <div class="hexagon">
-      <div class="hexagontent">If you can force your heart and nerve and sinew</div>
-    </div>
-    <div class="hexagon">
-      <div class="hexagontent">To serve your turn long after they are gone,</div>
-    </div>
-    <div class="hexagon">
-      <div class="hexagontent">And so hold on when there is nothing in you</div>
-    </div>
-    <div class="hexagon">
-      <div class="hexagontent">Except the Will which says to them: 'Hold on!'</div>
-    </div>
-  </div>
-  <div class="ibws-fix">
-    <div class="hexagon">
-      <div class="hexagontent">If you can talk with crowds and keep your virtue,</div>
-    </div>
-    <div class="hexagon">
-      <div class="hexagontent">' Or walk with Kings - nor lose the common touch,</div>
-    </div>
-    <div class="hexagon">
-      <div class="hexagontent">If neither foes nor loving friends can hurt you,</div>
-    </div>
-    <div class="hexagon">
-      <div class="hexagontent">If all men count with you, but none too much;</div>
-    </div>
-    <div class="hexagon">
-      <div class="hexagontent">If you can fill the unforgiving minute</div>
-    </div>
-    <div class="hexagon">
-      <div class="hexagontent">With sixty seconds' worth of distance run,</div>
-    </div>
-    <div class="hexagon">
-      <div class="hexagontent">Yours is the Earth and everything that's in it,</div>
-    </div>
-    <div class="hexagon">
-      <div class="hexagontent">And - which is more - you'll be a Man, my son!</div>
-    </div>
-  </div>
-  <div class="ibws-fix">
-    <div class="hexagon">
-      <div class="hexagontent">
-        <h1>IF</h1>
+<div class="tile-group">
+  <div class="tile">
+    <div class="content">
+      <div class="icon">
+        <i class="fa fa-camera-retro"></i>
+      </div>
+      <div class="title">
+        Photos
       </div>
     </div>
-    <div class="hexagon">
-      <div class="hexagontent">&mdash; Rudyard Kipling</div>
+  </div>
+  <div class="tile">
+    <div class="content">
+      <div class="icon">
+        <i class="fa fa-chess-knight"></i>
+      </div>
+      <div class="title">
+        Games
+      </div>
     </div>
-    <div class="hexanone">
-      <div class="hexagontent"></div>
+  </div>
+  <div class="tile">
+    <div class="content">
+      <div class="icon">
+        <i class="fa fa-code"></i>
+      </div>
+      <div class="title">
+        Code
+      </div>
     </div>
-    <div class="hexagon">
-      <div class="hexagontent"></div>
+  </div>
+  <div class="tile">
+    <div class="content">
+      <div class="icon">
+        <i class="fa fa-music"></i>
+      </div>
+      <div class="title">
+        Music
+      </div>
     </div>
-    <div class="hexagon">
-      <div class="hexagontent"></div>
+  </div>
+  <div class="tile">
+    <div class="content">
+      <div class="icon">
+        <i class="fa fa-book"></i>
+      </div>
+      <div class="title">
+        Books
+      </div>
     </div>
-    <div class="hexanone">
-      <div class="hexagontent"></div>
+  </div>
+  <div class="tile">
+    <div class="content">
+      <div class="icon">
+        <i class="fa fa-cogs"></i>
+      </div>
+      <div class="title">
+        Settings
+      </div>
     </div>
-    <div class="hexagon">
-      <div class="hexagontent"></div>
+  </div>
+</div>
+<code class="title">Colorful Menu</code>
+<div class="tile-group colorful">
+  <div class="tile spotify">
+    <div class="content">
+      <div class="icon">
+        <i class="fab fa-spotify"></i>
+      </div>
     </div>
-    <div class="hexagon">
-      <div class="hexagontent"></div>
+  </div>
+  <div class="tile discord">
+    <div class="content">
+      <div class="icon">
+        <i class="fab fa-discord"></i>
+      </div>
+    </div>
+  </div>
+  <div class="tile bandcamp">
+    <div class="content">
+      <div class="icon">
+        <i class="fab fa-bandcamp"></i>
+      </div>
+    </div>
+  </div>
+  <div class="tile steam">
+    <div class="content">
+      <div class="icon">
+        <i class="fab fa-steam"></i>
+      </div>
+    </div>
+  </div>
+  <div class="tile whatsapp">
+    <div class="content">
+      <div class="icon">
+        <i class="fab fa-whatsapp"></i>
+      </div>
+    </div>
+  </div>
+  <div class="tile youtube">
+    <div class="content">
+      <div class="icon">
+        <i class="fab fa-youtube"></i>
+      </div>
+    </div>
+  </div>
+</div>
+<code class="title">Message Menu</code>
+<div class="tile-group">
+  <div class="tile msg-tile">
+    <div class="content">
+      <div class="icon">
+        <i class="fa fa-skull"></i>
+      </div>
+      <div class="title">
+        Death List
+      </div>
+      <div class="msg">
+        If you don't know what a death list is, you shouldn't click on it.
+      </div>
+    </div>
+  </div>
+  <div class="tile msg-tile">
+    <div class="content">
+      <div class="icon">
+        <i class="fa fa-question-circle"></i>
+      </div>
+      <div class="msg">
+        You got question, we got answers.
+      </div>
+    </div>
+  </div>
+  <div class="tile msg-tile">
+    <div class="content">
+      <div class="icon">
+        <i class="fa fa-dna"></i>
+      </div>
+      <div class="title">
+        Experiment
+      </div>
+      <div class="msg">
+        No, we are not Umbrella Corp.
+      </div>
+    </div>
+  </div>
+  <div class="tile msg-tile">
+    <div class="content">
+      <div class="icon">
+        <i class="fab fa-old-republic"></i>
+      </div>
+      <div class="msg">
+        The Old Republic was the Republic of legend, greater than distance or time.
+      </div>
+    </div>
+  </div>
+  <div class="tile msg-tile">
+    <div class="content">
+      <div class="icon">
+        <i class="fa fa-newspaper"></i>
+      </div>
+      <div class="title">
+        News
+      </div>
+      <div class="msg">
+        Extra! Extra! Read All About It!
+      </div>
     </div>
   </div>
 </div>
 
 <style>
-@import url(https://fonts.googleapis.com/css?family=Merriweather);
+body {
+  font-family 			: sans-serif;
+	
+	code {
+		font-size: 1.2em;
+		display: block;
+		
+		&.title {
+			font-size: 1.6em;
+		}
+	}
+}
 
-*, *::before, *::after {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
-.hexagon {
-  position: relative;
-  display: inline-block;
-  /* left/right margin approx. 25% of .hexagon width + spacing */
-  margin: 1px 18px;
-  background-color: hsl(220, 75%, 75%);
-  text-align: center;
-}
-.hexagon, .hexagon::before, .hexagon::after {
-  /* easy way: height is width * 1.732
-  actual formula is 2*(width/(2*Math.tan(Math.PI/6)))
-  remove border-radius for sharp corners on hexagons */
-  width: 67px;
-  height: 116px;
-  border-radius: 20%/5%;
-}
-.hexagon::before {
-  background-color: inherit;
-  content: "";
-  position: absolute;
-  left: 0;
-  transform: rotate(-60deg);
-}
-.hexagon::after {
-  background-color: inherit;
-  content: "";
-  position: absolute;
-  left: 0;
-  transform: rotate(60deg);
-}
-.hexagon:nth-child(even) {
-  /* top approx. 50% of .hexagon height + spacing */
-  top: 59px;
-}
-.hexagon:hover {
-  background-color: hsla(60, 75%, 75%, 1.0);
-  cursor: pointer;
-  z-index: 105;
-}
-.hexagon:active {
-  background-color: hsla(60, 75%, 50%, 1.0);
-  z-index: 110;
-}
-.hexanone {
-  position: relative;
-  display: inline-block;
-  width: 67px;
-  height: 116px;
-  margin: 1px 18px;
-}
-.hexanone:nth-child(even) {
-  top: 59px;
-}
-.hexagontent {
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  width: 140%;
-  font-size: 1.4rem;
-  line-height: 1.2;
-  z-index: 100;
-}
-.ibws-fix {
-  /* inline-block whitespace fix */
-  font-size: 0;
-}
-.honeycomb {
-  margin: 0 auto;
-  text-align: center;
+@tile-size          : 250px;
+@border-outline     : 1px solid #333;
+
+.tile-group {
+  font-size         : 0;
+	margin 						: 30px 0; //Just for presentarion. Feel free to omit it.
+  
+  .tile {
+    position        : relative;
+    display         : inline-flex;
+    align-items     : center;
+    justify-content : center;
+    width           : @tile-size;
+    height          : @tile-size;
+    border          : @border-outline;
+    outline         : @border-outline;
+    font-size       : 20px;
+    overflow        : hidden;
+    vertical-align  : top;
+    transition      : background-color 150ms, border 150ms, outline 150ms;
+    cursor          : pointer;
+    
+    .content {
+      text-align    : center;
+      user-select   : none;
+      
+      .icon {
+        position    : relative;
+        font-size   : 2.5em;
+				top 				: 0;
+				transition  : top 150ms, font-size 150ms;
+      }
+    
+      .title {
+				position    : relative;
+        font-size   : 1.2em;
+				opacity     : 1;
+				transition  : opacity 150ms;
+				letter-spacing : 2px;
+      }
+			
+			.msg {
+				position 		: absolute;
+				top 				: @tile-size;
+				left 				: 0;
+				width 			: 100%;
+				transition  : top 150ms;
+				font-family : monospace;
+				font-size 	: 0.8em;
+			}
+    }
+		
+		&:hover {
+      background-color : #333;
+      color            : white;
+			
+			&.msg-tile {
+				.icon {
+					font-size    : 1.8em;
+					top 				 : -(@tile-size * 0.25);
+				}
+				.title {
+					opacity      : 0;
+				}
+				.msg {
+					top 				 : (@tile-size * 0.5);
+				}
+			}
+    }
+  }
+	
+	
+	@less-bg : #1d365d;
+	@sass-bg : #c6538c;
+	@disc-bg : #7289da;
+	@spot-bg : #1ed760;
+	@band-bg : #639aa9;
+	@wapp-bg : #5ed054;
+	@tube-bg : #f00;
+	
+	&.colorful {
+		.tile {
+			&.spotify:hover {
+				background-color 		: @spot-bg;
+				border-color 				: @spot-bg;
+				outline 						: 1px solid @spot-bg;
+			}
+			&.less:hover {
+				background-color 		: @less-bg;
+				border-color 				: @less-bg;
+				outline 						: 1px solid @less-bg;
+			}
+			&.discord:hover {
+				background-color 		: @disc-bg;
+				border-color 				: @disc-bg;
+				outline 						: 1px solid @disc-bg;
+			}	
+			&.bandcamp:hover {
+				background-color 		: @band-bg;
+				border-color 				: @band-bg;
+				outline 						: 1px solid @band-bg;
+			}
+			&.whatsapp:hover {
+				background-color 		: @wapp-bg;
+				border-color 				: @wapp-bg;
+				outline 						: 1px solid @wapp-bg;
+			}
+			&.youtube:hover {
+				background-color 		: @tube-bg;
+				border-color 				: @tube-bg;
+				outline 						: 1px solid @tube-bg;
+			}
+		}
+	}
 }
 </style>
 
