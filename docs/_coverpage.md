@@ -1,5 +1,3 @@
-<html>
-  <body>
 <div class="honeycomb">
   <div class="ibws-fix">
     <div class="hexagon">
@@ -143,20 +141,6 @@
   padding: 0;
   box-sizing: border-box;
 }
-html {
-  font-family: Merriweather, Georgia, serif;
-  font-size: 62.5%;
-}
-body {
-  color: hsl(0, 0%, 10%);
-  background-color: hsl(0, 0%, 95%);
-  border-top: 5px solid hsl(220, 50%, 75%);
-  max-width: 920px;
-  margin: 0 auto;
-  padding: 30px;
-  bottom: 0;
-  top: 0;
-}
 .hexagon {
   position: relative;
   display: inline-block;
@@ -229,7 +213,4 @@ body {
   text-align: center;
 }
 </style>
-  </body></html>
-[Know More](#app)
 
-![color](#)
