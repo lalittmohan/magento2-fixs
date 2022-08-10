@@ -1,2 +1,5 @@
+- [Setup](/)
+  - [Quick Development Setup using warden (New)](/)
+  - [Quick Development Setup using warden (exising project)](/)
 - [Order](/)
   - [Link guest order to customer](/)
